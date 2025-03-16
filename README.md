@@ -1,6 +1,10 @@
-# 💫 About Me:
-# Hi, I'm Wasim! 👋  <br>### 💻 Cybersecurity Enthusiast | SOC Analyst Aspirant  <br>- 🔍 Passionate about security operations, penetration testing, and threat analysis.  <br>- 🎓 Pursuing B.E. in Computer Science & Engineering (Graduating May 2025).  <br>- 🛠 Hands-on experience with SIEM (Splunk), Nmap, Wireshark, and Metasploit.  <br>- 📜 Certified: Google Cybersecurity, Cisco CCNAv7, TryHackMe SOC Level 1.  <br>- 🚀 Currently seeking an entry-level SOC Analyst role.  <br><br>
-
+# Hi, I'm Wasim! 👋  
+### 💻 Cybersecurity Enthusiast | SOC Analyst Aspirant  
+- 🔍 Passionate about security operations, penetration testing, and threat analysis.  
+- 🎓 Pursuing B.E. in Computer Science & Engineering (Graduating May 2025).  
+- 🛠 Hands-on experience with SIEM (Splunk), Nmap, Wireshark, and Metasploit.  
+- 📜 Certified: Google Cybersecurity, Cisco CCNAv7, TryHackMe SOC Level 1.  
+- 🚀 Currently seeking an entry-level SOC Analyst role.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wasimhassan1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasimhassan2025@gmail.com) 
