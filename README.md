@@ -7,7 +7,7 @@
 - 🚀 Currently seeking an entry-level SOC Analyst role.  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wasimhassan1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasimhassan2025@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wasimhassan1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasimhassan2025@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/wasim-hassan1)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
